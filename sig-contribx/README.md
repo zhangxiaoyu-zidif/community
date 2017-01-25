@@ -18,7 +18,9 @@ and we need to get the monotonically growing PR merge latency and numbers of ope
 * Help people get involved in the kubernetes community.
 
 ##Organizers:
+@Phillels (Elsie Phillips, CoreOS)
 * Garrett Rodrigues grod@google.com, @grodrigues3, Google
+* Elsie Phillips elsie.phillips@coreos.com, @Phillels, CoreOS
 
 ##Issues:
 * [Detailed backlog](https://github.com/kubernetes/contrib/projects/1)
