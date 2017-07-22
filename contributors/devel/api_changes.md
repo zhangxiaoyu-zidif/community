@@ -366,7 +366,7 @@ to the comment
   // +k8s:deepcopy-gen:interfaces=k8s.io/apimachinery/pkg/runtime.Object
 ```
 
-Optional fields should have the `,omitempty` json tag; fields are interpreted as
+Optional fields should have the `status,omitempty` json tag; fields are interpreted as
 being required otherwise.
 
 ### Edit defaults.go
